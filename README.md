@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 📈 Data Science Student at Lambda School
+- 📈 Data Science Student at Lambda School - Graduation: June 2021
 - 🌱 Intern at Family Promise 
 - ⚡ Fun fact: Enjoy surfing and everything outdoors!
 - 📫 How to reach me: evanpersonalbiz@gmail.com
